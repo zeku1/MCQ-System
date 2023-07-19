@@ -1,0 +1,10 @@
+1) What JDK means ?, Java Dependency Kit, Java Development Kit , Java Demonstration Kit, Java Decompiler Kit, B. Java Development Kit
+2) Which tool compile debug and execute java programs?, JVM, JDK, JIT, JRE, B. JDK
+3) Which tool converts bytecode into machine specific code and executes them ?, JVM, JDK, JIT, JRE, A. JVM
+4) Which tool is used to run java program?, JVM, JDK, JIT, JRE, D. JRE
+5) Which tool is used to optimize bytecode to machine code?, JVM, JDK, JIT, JRE, C. JIT
+6) Is Java an Object Oriented Language, yes , no , maybe, ., A. yes
+7) What is the extension of java source files?, .class , .java , .txt , .js , B. .java
+8) What is the extension of compiled java classes?, .class , .java, .txt, .js, A. .class
+9) IntelliJ Community Edition can do edit and debug?, yes , no , ., ., A. yes
+10) Javac is used to, Converts java file to class file, Converts class file to java file, Converts java file to object file, Interprets Java Code, A. Converts java file to class file correct
